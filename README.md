@@ -6,7 +6,6 @@ pip install -r requirements.txt
 ไฟล์ .env (สำหรับ frontend)
 VITE_API_BASE=http://localhost:8001
 
-# เปิดปิด WebSocket Frontend
 VITE_USE_WEBSOCKET=false
 
 ไฟล์ .env (สำหรับ backend)
